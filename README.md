@@ -1,1 +1,4 @@
 # DevOps-Training
+
+TODO:
+* assignments
